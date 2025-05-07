@@ -90,3 +90,7 @@ This README provides everything users need to understand, install, and use your 
 | **Responsive Design** | Adapts to different screen sizes | Mobile/desktop friendly |
 
 > 💡 *Pro Tip: The expandable processed text section helps users understand how the model interprets their input by showing the cleaned and tokenized version of the email content.*
+
+
+For inquiries,
+📧 Email: [chadev767@gmail.com](mailto:chadev767@gmail.com)  
